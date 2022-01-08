@@ -1,0 +1,94 @@
+{
+    "results": [
+        {
+            "Name": "United Kingdom",
+            "Info": {
+                "Capital": "London",
+                "Area": 241930,
+                "Population": 68362643,
+                "Currency": "Pound Sterling (GBP)"
+            }
+        },
+        {
+            "Name": "Japan",
+            "Info": {
+                "Capital": "Tokyo",
+                "Area": 364555,
+                "Population": 126476461,
+                "Currency": "Japanese Yen (YEN)"
+            }
+        },
+        {
+            "Name": "Singapore",
+            "Info": {
+                "Capital": "Not Applicable",
+                "Area": 700,
+                "Population": 5850342,
+                "Currency": "Singapore Dollar (SGD)"
+            }
+        },
+        {
+            "Name": "Zambia",
+            "Info": {
+                "Capital": "Lusaka",
+                "Area": 752618,
+                "Population": 18383955,
+                "Currency": "Zambian Kwacha (ZMW)"
+            }
+        },
+        {
+            "Name": "Oman",
+            "Info": {
+                "Capital": "Muscat",
+                "Area": 309500,
+                "Population": 5106626,
+                "Currency": "Omani Rial (OMR)"
+            }
+        },
+        {
+            "Name": "Vietnam",
+            "Info": {
+                "Capital": "Hanoi",
+                "Area": 310070,
+                "Population": 97338579,
+                "Currency": "Dong (VND)"
+        }
+        },
+        {
+            "Name": "Latvia",
+            "Info": {
+                "Capital": "Riga",
+                "Area": 62200,
+                "Population": 1886198,
+                "Currency": "Euro (EUR)"
+            }
+        },
+        {
+            "Name": "Finland",
+            "Info": {
+                "Capital": "Helsinki",
+                "Area": 303890,
+                "Population": 5540720,
+                "Currency": "Euro (EUR)"
+            }
+        },
+        {
+            "Name": "Djibouti",
+            "Info": {
+                "Capital": "Djibouti",
+                "Area": 23180,
+                "Population": 988000,
+                "Currency": "Djiboutian Franc (DJF)"
+            }
+        },
+        {
+            "Name": "Angola",
+            "Info": {
+                "Capital": "Luanda",
+                "Area": 1246700,
+                "Population": 32866272,
+                "Currency": "Kwanza (AOA)"
+            }
+        }
+    ]
+}
