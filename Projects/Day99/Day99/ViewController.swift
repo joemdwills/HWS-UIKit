@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     override func loadView() {
         view = UIView()
-        view.backgroundColor = .white
+        view.backgroundColor = .black
         
         flags = ["Angola", "Canada", "Djibouti", "Finland", "Japan", "Latvia", "Oman", "Singapore", "UK", "USA", "Vietnam", "Zambia"]
         for flag in flags {
@@ -39,11 +39,12 @@ class ViewController: UIViewController {
 //        buttonsView.layer.borderWidth = 1
 //        buttonsView.layer.borderColor = UIColor.lightGray.cgColor
         buttonsView.layer.cornerRadius = 20
-        buttonsView.backgroundColor = UIColor(hue: 0.144, saturation: 0.10, brightness: 1.0, alpha: 1.0)
+        buttonsView.backgroundColor = UIColor(hue: 0.0, saturation: 0.0, brightness: 0.5, alpha: 0.52)
         
         scoreLabel = UILabel()
         scoreLabel.translatesAutoresizingMaskIntoConstraints = false
         scoreLabel.font = UIFont.systemFont(ofSize: 36)
+        scoreLabel.textColor = .white
         scoreLabel.textAlignment = .center
         scoreLabel.text = "Score: 0"
         view.addSubview(scoreLabel)
@@ -51,6 +52,7 @@ class ViewController: UIViewController {
         pairLabel = UILabel()
         pairLabel.translatesAutoresizingMaskIntoConstraints = false
         pairLabel.font = UIFont.systemFont(ofSize: 48)
+        pairLabel.textColor = .white
         pairLabel.textAlignment = .center
         pairLabel.text = """
             Last Flag found:
